@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "693078477886",
+    "project_id": "practicafinalkotlin",
+    "storage_bucket": "practicafinalkotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:693078477886:android:f42ab057d63c00e6f5d56f",
+        "android_client_info": {
+          "package_name": "com.example.practicafinaldiseo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "693078477886-2inm3r140vlbuh2298mrp07ab5voj8do.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAyQRqqgdhjTDWUnGgXQ8W4mssbFuFf79k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "693078477886-2inm3r140vlbuh2298mrp07ab5voj8do.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
